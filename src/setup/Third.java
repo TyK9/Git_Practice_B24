@@ -13,6 +13,10 @@ public class Third {
 
     }
 
+    public void greeting3(){
+        System.out.println("Friend");
+    }
+
 
 
 }
