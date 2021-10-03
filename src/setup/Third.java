@@ -8,6 +8,11 @@ public class Third {
 
     }
 
+    public void greeting2(){
+        System.out.println("My");
+
+    }
+
 
 
 }
